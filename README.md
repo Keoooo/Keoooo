@@ -1,6 +1,6 @@
 # Hello there, I'm Andy
 
-## I'm an Aspiring Developer
+## Aspiring Web Developer
 
 - 🌱 I’m currently learning NEXTJS & JAVASRIPT
 - 🥅 2022 Goals: Learn more about JS, web3. Contribute to open source
