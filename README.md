@@ -28,5 +28,6 @@
 
 <br />
 <br />
+---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Keoooo)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Keoooo)
