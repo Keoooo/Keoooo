@@ -7,6 +7,14 @@
 - 🧰 I’m a multi-skilled maintenance engineer looking to transition into tech
 - 🟩🟩🟨⬜️ Almost finished my current project
 
+
+Projects 
+
+- https://www.worldalternative.org/ - A product finder for when you are travelling abroad 
+- http://blockpage.app  - A blockchain/cyrpto data visualisation tool
+- santa-banter.vercel.app - Supabase gold star winner. -2021
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
