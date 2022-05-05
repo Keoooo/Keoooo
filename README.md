@@ -12,7 +12,7 @@ Projects
 
 - https://www.worldalternative.org/ - A product finder for when you are travelling abroad 
 - http://blockpage.app  - A blockchain/cyrpto data visualisation tool
-- santa-banter.vercel.app - Supabase gold star winner. -2021
+- http://santa-banter.vercel.app - Supabase gold star winner. -2021
 
 
 ### Languages and Tools:
