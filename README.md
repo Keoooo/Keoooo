@@ -2,7 +2,7 @@
 
 ## Aspiring Web Developer
 
-- 🌱 I’m currently learning NEXTJS & JAVASRIPT
+- 🌱 NEXTJS & JAVASRIPT
 - 🥅 2022 Goals: Learn more about JS, web3. Contribute to open source
 - 🧰 I’m a multi-skilled maintenance engineer looking to transition into tech
 - 🟩🟩🟨⬜️ Almost finished my current project
