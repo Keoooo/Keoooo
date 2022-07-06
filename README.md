@@ -1,11 +1,7 @@
 # Hello there, I'm Andy
 
-## Aspiring Web Developer
 
 - 🌱 NEXTJS & JAVASRIPT
-- 🥅 2022 Goals: Learn more about JS, web3. Contribute to open source
-- 🧰 I’m a multi-skilled maintenance engineer looking to transition into tech
-- 🟩🟩🟨⬜️ Almost finished my current project
 
 
 Projects 
