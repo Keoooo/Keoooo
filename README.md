@@ -6,9 +6,9 @@
 
 Non Maintained Projects 
 
-- https://www.worldalternative.org/ - A product finder for when you cant find the item you need are travelling abroad -2022
+<!-- - https://www.worldalternative.org/ - A product finder for when you cant find the item you need are travelling abroad -2022
 - http://blockpage.app  - A blockchain/cyrpto data visualisation tool - 2022
-- http://santa-banter.vercel.app - Supabase hackathon gold star winner. Aim was to test the new realtime features. -2021
+- http://santa-banter.vercel.app - Supabase hackathon gold star winner. Aim was to test the new realtime features. -2021 -->
 
 
 ### Languages and Tools:
